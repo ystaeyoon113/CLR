@@ -1,0 +1,31 @@
+a{
+  color: gray;
+  font-family: verdana;
+  text-decoration:none;
+}
+h1{
+  color:green;
+  font-size:300%;
+  text-align:center;
+}
+.heading{
+  display:grid;
+  grid-template-columns:1fr 700px 1fr;
+}
+.register{
+  color:violet;
+  font-family:verdana;
+}
+.group_ranking{
+
+}
+.individual_ranking{
+
+}
+#ranking{
+  display:grid;
+  grid-template-columns:250px 800px 1fr;
+}
+div{
+
+}
